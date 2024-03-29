@@ -1,0 +1,12 @@
+.app{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+ }
+a:hover{
+    font-weight: bolder;
+    color: ghostwhite;
+    text-decoration: dotted solid blue; 
+    text-shadow: 70%;
+}
