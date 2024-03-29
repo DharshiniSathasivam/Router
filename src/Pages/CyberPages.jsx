@@ -4,7 +4,7 @@ import { MainBar } from '../components/MainBar'
 const CyberPages = () => {
   const data =[{
     name :"Cybersecurity Vs Ethical Hacking: Top 10 Differences",
-    img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+    img: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Non-Coding-Jobs-in-Cybersecurity.webp",
 }]
   return (
     <div>
